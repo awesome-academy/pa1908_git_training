@@ -1,4 +1,4 @@
-# pa1908_git_training
+﻿# pa1908_git_training
 
 Git Training
 
@@ -13,3 +13,5 @@ Git Training
 3. Xóa file: <pa1908_họ_và_tên>.txt
 
 Với mỗi yêu cầu hãy tạo 1 pull request riêng.
+
+Thứ 6 ngày 22 tháng 11 năm 2019
